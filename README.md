@@ -3,7 +3,7 @@
 The purpose of this program is to clean up courses that have been exported from Blackbaud Learn and imported into Canvas. This program can help save time by automating the process of making changes in bulk rather than manually.
 
 <p align="center">
-  <img width="auto" src="course-transfer.jpg">
+  <img src="mfa.gif">
 </p>
 
 ### Features of this program include the ability to:
